@@ -104,9 +104,9 @@
    * color-2(#343D35)
    * color-3(#FEF5E4)
    */
-	--color-1: hsla(35, 87%, 49%, 1);
+	--color-1: #3d4196;
 	--color-2: hsla(127, 8%, 22%, 1);
-	--color-3: hsla(39, 93%, 95%, 1);
+	--color-3: rgba(221, 221, 221, 0.884);
 
   /* theme color variations
    */
